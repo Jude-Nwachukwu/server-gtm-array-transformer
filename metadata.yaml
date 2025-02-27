@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/server-gtm-array-transformer
+versions:
+  - sha: 7c0a33878e3e0400f9178a131d0c86aa2e8f05d9
+    changeNotes: Initial release.
